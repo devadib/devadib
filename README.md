@@ -2,7 +2,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<h2 align="center">سلام 🖐 من محمد امین سعیدی راد هستم</h2>
+<h2 align="center">سلام 🖐 من ادیب  هستم</h2>
 <p align="center">
   برنامه نویس فرانت اند 🖥 عاشق برنامه نویسی ❤️ دانشجوی رشته مهندسی کامپیوتر 👨‍💻 و عاشق دنیای صفر و یک ✌️
 </p>
@@ -16,8 +16,9 @@
 <br />
 
 <h2 align="right">تماس با من 📞</h2>
-<a href="https://instagram.com/rad_front"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+
+<a href="https://t.me/lastnavigator"><img width="50px" height="50px"  align="left" src="https://img.icons8.com/?size=100&id=112164&format=png&color=000000" alt="Telegram" /></a>
+<a href="tel:+989931383884"><img width="50px" height="50px"  align="left" src="https://img.icons8.com/?size=100&id=108644&format=png&color=000000" alt="Telegram" /></a>
 
 <br />
 
