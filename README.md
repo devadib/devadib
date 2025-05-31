@@ -17,8 +17,8 @@
 
 <h2 align="right">تماس با من 📞</h2>
 
-<a href="https://t.me/lastnavigator"><img width="50px" height="50px"  align="left" src="https://img.icons8.com/?size=100&id=112164&format=png&color=000000" alt="Telegram" /></a>
-<a href="tel:+989931383884"><img width="50px" height="50px"  align="left" src="https://img.icons8.com/?size=100&id=108644&format=png&color=000000" alt="Telegram" /></a>
+<a href="https://t.me/lastnavigator"><img width="50px" height="50px"  align="left" src="https://github.com/devadib/devadib/blob/main/icons8-telegram-logo-50.png?raw=true" alt="Telegram" /></a>
+<a href="tel:+989931383884"><img width="50px" height="50px"  align="left" src="https://img.icons8.com/?size=100&id=108644&format=png&color=000000" alt="phpne" /></a>
 
 <br />
 
