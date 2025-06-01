@@ -38,8 +38,8 @@
 <h2 alin="right">⚡️ &nbsp; وضعیت صفحه ی من 🖥️</h2>
 
 <a href="https://github.com/devadib">
-  <img src="https://github-readme-stats.vercel.app/api?username=devadib&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadib" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devadib&show_icons=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadib&theme=radical&langs_count=12" />
 </a>
 
 
